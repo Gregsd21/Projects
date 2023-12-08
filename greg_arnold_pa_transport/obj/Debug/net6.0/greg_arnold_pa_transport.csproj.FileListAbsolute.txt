@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\bin\Debug\net6.0\greg_arnold_pa_transport.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\bin\Debug\net6.0\greg_arnold_pa_transport.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\bin\Debug\net6.0\greg_arnold_pa_transport.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\bin\Debug\net6.0\greg_arnold_pa_transport.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\bin\Debug\net6.0\greg_arnold_pa_transport.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\refint\greg_arnold_pa_transport.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\greg_arnold_pa_transport.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_transport\obj\Debug\net6.0\ref\greg_arnold_pa_transport.dll

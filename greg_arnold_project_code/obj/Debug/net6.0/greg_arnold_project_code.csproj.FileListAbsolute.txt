@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\bin\Debug\net6.0\greg_arnold_project_code.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\bin\Debug\net6.0\greg_arnold_project_code.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\bin\Debug\net6.0\greg_arnold_project_code.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\bin\Debug\net6.0\greg_arnold_project_code.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\bin\Debug\net6.0\greg_arnold_project_code.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\refint\greg_arnold_project_code.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\greg_arnold_project_code.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_project_code\obj\Debug\net6.0\ref\greg_arnold_project_code.dll

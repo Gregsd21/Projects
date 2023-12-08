@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\bin\Debug\net6.0\greg_arnold_final_exam.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\bin\Debug\net6.0\greg_arnold_final_exam.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\bin\Debug\net6.0\greg_arnold_final_exam.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\bin\Debug\net6.0\greg_arnold_final_exam.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\bin\Debug\net6.0\greg_arnold_final_exam.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\refint\greg_arnold_final_exam.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\greg_arnold_final_exam.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_final_exam\obj\Debug\net6.0\ref\greg_arnold_final_exam.dll

@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\bin\Debug\net6.0\greg_arnold_pa_concurrency.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\bin\Debug\net6.0\greg_arnold_pa_concurrency.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\bin\Debug\net6.0\greg_arnold_pa_concurrency.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\bin\Debug\net6.0\greg_arnold_pa_concurrency.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\bin\Debug\net6.0\greg_arnold_pa_concurrency.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\refint\greg_arnold_pa_concurrency.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\greg_arnold_pa_concurrency.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_concurrency\obj\Debug\net6.0\ref\greg_arnold_pa_concurrency.dll

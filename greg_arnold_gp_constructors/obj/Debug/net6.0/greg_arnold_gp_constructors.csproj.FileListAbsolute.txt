@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\bin\Debug\net6.0\greg_arnold_gp_constructors.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\bin\Debug\net6.0\greg_arnold_gp_constructors.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\bin\Debug\net6.0\greg_arnold_gp_constructors.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\bin\Debug\net6.0\greg_arnold_gp_constructors.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\bin\Debug\net6.0\greg_arnold_gp_constructors.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\refint\greg_arnold_gp_constructors.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\greg_arnold_gp_constructors.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_constructors\obj\Debug\net6.0\ref\greg_arnold_gp_constructors.dll

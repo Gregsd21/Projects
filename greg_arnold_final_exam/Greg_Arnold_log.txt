@@ -1,0 +1,5 @@
+Contents of Log File
+Starting the application.
+Buildings ArrayList created and filled.
+Iterative print complete.
+Recursive print complete.

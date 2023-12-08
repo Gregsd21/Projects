@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\bin\Debug\net6.0\greg_arnold_gp_polymorphism.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\bin\Debug\net6.0\greg_arnold_gp_polymorphism.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\bin\Debug\net6.0\greg_arnold_gp_polymorphism.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\bin\Debug\net6.0\greg_arnold_gp_polymorphism.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\bin\Debug\net6.0\greg_arnold_gp_polymorphism.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\refint\greg_arnold_gp_polymorphism.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\greg_arnold_gp_polymorphism.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_polymorphism\obj\Debug\net6.0\ref\greg_arnold_gp_polymorphism.dll

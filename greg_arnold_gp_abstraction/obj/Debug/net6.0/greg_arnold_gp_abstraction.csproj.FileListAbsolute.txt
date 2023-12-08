@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\bin\Debug\net6.0\greg_arnold_gp_abstraction.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\bin\Debug\net6.0\greg_arnold_gp_abstraction.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\bin\Debug\net6.0\greg_arnold_gp_abstraction.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\bin\Debug\net6.0\greg_arnold_gp_abstraction.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\bin\Debug\net6.0\greg_arnold_gp_abstraction.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\refint\greg_arnold_gp_abstraction.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\greg_arnold_gp_abstraction.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_abstraction\obj\Debug\net6.0\ref\greg_arnold_gp_abstraction.dll

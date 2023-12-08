@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\bin\Debug\net6.0\greg_arnold_gp_interface.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\bin\Debug\net6.0\greg_arnold_gp_interface.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\bin\Debug\net6.0\greg_arnold_gp_interface.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\bin\Debug\net6.0\greg_arnold_gp_interface.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\bin\Debug\net6.0\greg_arnold_gp_interface.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\refint\greg_arnold_gp_interface.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\greg_arnold_gp_interface.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_interface\obj\Debug\net6.0\ref\greg_arnold_gp_interface.dll

@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\bin\Debug\net6.0\arnold_gp_inheritance.exe
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\bin\Debug\net6.0\arnold_gp_inheritance.deps.json
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\bin\Debug\net6.0\arnold_gp_inheritance.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\bin\Debug\net6.0\arnold_gp_inheritance.dll
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\bin\Debug\net6.0\arnold_gp_inheritance.pdb
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.dll
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\refint\arnold_gp_inheritance.dll
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.pdb
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\arnold_gp_inheritance.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\arnold_gp_inheritance\obj\Debug\net6.0\ref\arnold_gp_inheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\bin\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\bin\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\bin\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\bin\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\bin\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\refint\greg_arnold_pa_creating_a_vehicle.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\greg_arnold_pa_creating_a_vehicle.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_pa_creating_a_vehicle\obj\Debug\net6.0\ref\greg_arnold_pa_creating_a_vehicle.dll

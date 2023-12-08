@@ -1,0 +1,15 @@
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.csproj.AssemblyReference.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.AssemblyInfoInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.AssemblyInfo.cs
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.csproj.CoreCompileInputs.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\bin\Debug\net6.0\greg_arnold_gp_composition.exe
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\bin\Debug\net6.0\greg_arnold_gp_composition.deps.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\bin\Debug\net6.0\greg_arnold_gp_composition.runtimeconfig.json
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\bin\Debug\net6.0\greg_arnold_gp_composition.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\bin\Debug\net6.0\greg_arnold_gp_composition.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\refint\greg_arnold_gp_composition.dll
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.pdb
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\greg_arnold_gp_composition.genruntimeconfig.cache
+C:\Users\student\source\CIS317 Source\greg_arnold_gp_composition\obj\Debug\net6.0\ref\greg_arnold_gp_composition.dll
