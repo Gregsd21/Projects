@@ -2,14 +2,18 @@
 * Name:Greg Arnold
 * Date: 12/3/2023
 * Assignment: CIS317 Week 4 PA Database 
-* This class will provide a means for database interaction with the Person table.
+*Class to handle all interactions with the People table in the 
+*database, including creating the table if it doesn't exist and all
+*CRUD (Create, Read, Update, Delete) operations on the People table.
+*Note that the interactions are all done using standard SQL syntax
+*that is then executed by the SQLite library.
 */
 using System.Data.SQLite;
 public class PersonDb
 {
     public static void CreateTable(SQLiteConnection conn)
     {
-        //Default statement to create a new table
+        /*Default statement to create a new table*/
         string sql =
         "CREATE TABLE IF NOT EXISTS Addresses (\n"
         + "     ID integer PRIMARY KEY\n"
@@ -19,7 +23,9 @@ public class PersonDb
         + "     ,Age integer\n"
         + "     ,PhNum varchar(50)\n"
         + "     ,Gender varchar(50)\n"
-        + "     ,Email varchar(50));";
+        + "     ,Email varchar(50));\n"
+        + "     ,Address varchar(100));\n"
+        + "     ,ShareType varchar(50));";
 
     SQLiteCommand cmd = conn.CreateCommand();
     cmd.CommandText = sql;
@@ -28,9 +34,9 @@ public class PersonDb
     public static void AddPerson(SQLiteConnection conn, Person p)
     {
         string sql = string.Format(
-            "INSERT INTO People(FName, LastName, Dob, Age, PhNum, Gender, Email) "
-            + "VALUES('{0}','{1}','{2}',{3},'{4}','{5}','{6}')",
-            p.FirstName, p.LastName, p.Dob, p.Age, p.PhNum, p.Gender, p.Email);
+            "INSERT INTO People(FName, LName, Dob, Age, PhNum, Gender, Email, Address, ShareType) "
+            + "VALUES('{0}','{1}','{2}',{3},'{4}','{5}','{6}','{7}','{8}')",
+            p.FName, p.LName, p.Dob, p.Age, p.PhNum, p.Gender, p.Email,p.Address, p.ShareType);
             SQLiteCommand cmd = conn.CreateCommand();
             cmd.CommandText = sql;
             cmd.ExecuteNonQuery();
@@ -38,8 +44,8 @@ public class PersonDb
     public static void UpdatePerson(SQLiteConnection conn, Person p)
     {
         string sql = string.Format(
-            "UPDATE People SET FirstName='{0}', LastName='{1}', Dob='{2}', Age={3}, PhNum='{4}', Gender='{5}', Email='{6}')"
-            + " WHERE ID={7}", p.FirstName, p.LastName, p.Dob, p.Age, p.PhNum, p.Gender, p.Email, p.ID);
+            "UPDATE People SET FName='{0}', LName='{1}', Dob='{2}', Age={3}, PhNum='{4}', Gender='{5}', Email='{6}', Address='{7}',ShareType='{8}')"
+            + " WHERE ID={9}", p.FName, p.LName, p.Dob, p.Age, p.PhNum, p.Gender, p.Email, p.Address, p.ShareType, p.ID);
         SQLiteCommand cmd = conn.CreateCommand();
         cmd.CommandText = sql;
         cmd.ExecuteNonQuery();
@@ -70,7 +76,9 @@ public class PersonDb
                 rdr.GetInt32(4),
                 rdr.GetString(5),
                 rdr.GetString(6),
-                rdr.GetString(7)
+                rdr.GetString(7),
+                rdr.GetString(8),
+                rdr.GetString(9)
             ));
         }
 
@@ -88,19 +96,20 @@ public class PersonDb
         if (rdr.Read())
         {
             return new Person(
-                 rdr.GetInt32(0),
+                rdr.GetInt32(0),
                 rdr.GetString(1),
                 rdr.GetString(2),
                 rdr.GetString(3),
                 rdr.GetInt32(4),
                 rdr.GetString(5),
                 rdr.GetString(6),
-                rdr.GetString(7)
+                rdr.GetString(7),
+                rdr.GetString(8)
             );
         }
         else
         {
-            return new Person(-1, string.Empty, string.Empty, -1);
+            return new Person(-1, string.Empty, string.Empty, -1, string.Empty,string.Empty,string.Empty,string.Empty);
         }
     }
 }

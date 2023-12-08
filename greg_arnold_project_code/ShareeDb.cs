@@ -9,7 +9,7 @@ public class ShareeDb
 {
     public static void CreateTable(SQLiteConnection conn)
     {
-        //Default statement to create a new table
+        /*Default statement to create a new table*/
         string sql =
         "CREATE TABLE IF NOT EXISTS Addresses (\n"
         + "     ID integer PRIMARY KEY\n"
@@ -19,44 +19,44 @@ public class ShareeDb
         + "     ,Age integer\n"
         + "     ,PhNum varchar(50)\n"
         + "     ,Gender varchar(50)\n"
-        + "     ,Email varchar(50));";
-        + "     ,Address varchar(50)\n"
-        + "     ,SharersID integer;"
+        + "     ,Email varchar(50))\n"
+        + "     ,Address varchar(100);";
+       
 
     SQLiteCommand cmd = conn.CreateCommand();
     cmd.CommandText = sql;
     cmd.ExecuteNonQuery();
     }
-    public static void AddPerson(SQLiteConnection conn, Person p)
+    public static void AddSharee(SQLiteConnection conn, Sharee e)
     {
         string sql = string.Format(
-            "INSERT INTO People(FName, LastName, Dob, Age, PhNum, Gender, Email) "
+            "INSERT INTO Sharees(FName, LName, Dob, Age, PhNum, Gender, Email, Address) "
             + "VALUES('{0}','{1}','{2}',{3},'{4}','{5}','{6}')",
-            p.FirstName, p.LastName, p.Dob, p.Age, p.PhNum, p.Gender, p.Email);
+            e.FName, e.LName, e.Dob, e.Age, e.PhNum, e.Gender, e.Email, e.Address);
             SQLiteCommand cmd = conn.CreateCommand();
             cmd.CommandText = sql;
             cmd.ExecuteNonQuery();
     }
-    public static void UpdatePerson(SQLiteConnection conn, Person p)
+    public static void UpdateSharee(SQLiteConnection conn, Sharee e)
     {
         string sql = string.Format(
-            "UPDATE People SET FirstName='{0}', LastName='{1}', Dob='{2}', Age={3}, PhNum='{4}', Gender='{5}', Email='{6}')"
-            + " WHERE ID={7}", p.FirstName, p.LastName, p.Dob, p.Age, p.PhNum, p.Gender, p.Email, p.ID);
+            "UPDATE Sharees SET FName='{0}', LName='{1}', Dob='{2}', Age={3}, PhNum='{4}', Gender='{5}', Email='{6}', ShareType='{7}')"
+            + " WHERE ID={8}", e.FName, e.LName, e.Dob, e.Age, e.PhNum, e.Gender, e.Email, e.ShareType, e.ID);
         SQLiteCommand cmd = conn.CreateCommand();
         cmd.CommandText = sql;
         cmd.ExecuteNonQuery();
     }
-    public static void DeletePerson(SQLiteConnection conn, int id)
+    public static void DeleteSharee(SQLiteConnection conn, int id)
     {
-        string sql = string.Format("DELETE from People WHERE ID = {0}", id);
+        string sql = string.Format("DELETE from Sharees WHERE ID = {0}", iD);
         SQLiteCommand cmd = conn.CreateCommand();
         cmd.CommandText = sql;
         cmd.ExecuteNonQuery();
     }
-    public static List<Person> GetAllPeople(SQLiteConnection conn)
+    public static List<Sharee> GetAllSharees(SQLiteConnection conn)
     {
-        List<Person> people = new List<Person>();
-        string sql = "SELECT * FROM People";
+        List<Sharee> sharees = new List<Sharee>();
+        string sql = "SELECT * FROM Sharees";
         SQLiteCommand cmd = conn.CreateCommand();
         cmd.CommandText = sql;
 
@@ -64,7 +64,7 @@ public class ShareeDb
 
         while (rdr.Read())
         {
-            people.Add(new Person(
+            people.Add(new Sharee(
                 rdr.GetInt32(0),
                 rdr.GetString(1),
                 rdr.GetString(2),
@@ -72,15 +72,16 @@ public class ShareeDb
                 rdr.GetInt32(4),
                 rdr.GetString(5),
                 rdr.GetString(6),
-                rdr.GetString(7)
+                rdr.GetString(7),
+                rdr.GetString(8)
             ));
         }
 
-        return people;
+        return sharees;
     }
-    public static Person GetPerson(SQLiteConnection conn, int id)
+    public static Sharee GetSharee(SQLiteConnection conn, int id)
     {
-        string sql = string.Format("SELECT * FROM People WHERE ID = {0}", id);
+        string sql = string.Format("SELECT * FROM Sharees WHERE ID = {0}", id);
 
         SQLiteCommand cmd = conn.CreateCommand();
         cmd.CommandText = sql;
@@ -89,7 +90,7 @@ public class ShareeDb
 
         if (rdr.Read())
         {
-            return new Person(
+            return new Sharee(
                  rdr.GetInt32(0),
                 rdr.GetString(1),
                 rdr.GetString(2),
@@ -102,7 +103,7 @@ public class ShareeDb
         }
         else
         {
-            return new Person(-1, string.Empty, string.Empty, -1);
+            return new Sharee(-1, string.Empty, string.Empty, -1, string.Empty,string.Empty,string.Empty,string.Empty);
         }
     }
 }

@@ -15,15 +15,22 @@ public class Sharee : Person
 
     public string Address { get; set; } 
 
-    public int SharersID { get; set; } 
-
-  
-
+    public Sharee(string fName, string lName, string dob, int age, string phNum, string gender, string email, string shareType, string address)
+    : base(fName, lName, dob, age, phNum, gender, email, shareType)
+    {
+    Address = address;
+    } 
+        public override string ToString()
+    {
+        return string.Format(
+            "First Name: {0}\nLast Name: {1}\nDate of Birth (mm/dd/yyyy): {2}\nAge: {3}\nPhone: {4}\nGender: {5}\nEmail: {6}\nAddress: {7}",
+            base.ToString(),Address);
+    }
     public void GetShareeInfo() 
 
     { 
 
-        Console.WriteLine("Enter Sharee Information:"); 
+        Console.WriteLine("Enter Your Sharee Information:\n");
 
         FName = Console.ReadLine(); 
 
@@ -33,18 +40,16 @@ public class Sharee : Person
 
         Age = Convert.ToInt32(Console.ReadLine()); 
 
-        PhNum = Convert.ToInt32(Console.ReadLine()); 
+        PhNum = Console.ReadLine(); 
 
         Gender = Console.ReadLine(); 
 
-        Email = Console.ReadLine(); 
+        Email = Console.ReadLine();
 
         Address = Console.ReadLine(); 
 
-        SharersID = Convert.ToInt32(Console.ReadLine()); 
-
     } 
-
+     
 } 
 
   

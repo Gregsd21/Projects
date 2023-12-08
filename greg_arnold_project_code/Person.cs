@@ -24,8 +24,9 @@ public class Person
     public string Gender { get; set; } 
 
     public string Email { get; set; } 
-
-public Person(int iD, string fName, string lName, string dob, int age, string phNum, string gender, string email)
+    public string ShareType {get; set;}
+//Constructor with ID
+public Person(int iD, string fName, string lName, string dob, int age, string phNum, string gender, string email, string shareType)
 {
   ID = iD;
   FName = fName;
@@ -35,7 +36,22 @@ public Person(int iD, string fName, string lName, string dob, int age, string ph
   PhNum = phNum;
   Gender = gender;
   Email = email;
+  ShareType = shareType;
 }
+/*Constructor with Share Type*/
+public Person(string fName, string lName, string dob, int age, string phNum, string gender, string email, string address, string shareType)
+{
+  FName = fName;
+  LName = lName;
+  Dob = dob;
+  Age = age;
+  PhNum = phNum;
+  Gender = gender;
+  Email = email;
+  Address = address;
+  ShareType = shareType;
+} 
+/*Constructor with no ID or Share Type.*/
 public Person(string fName, string lName, string dob, int age, string phNum, string gender, string email)
 {
   FName = fName;

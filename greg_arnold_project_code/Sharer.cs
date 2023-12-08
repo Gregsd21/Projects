@@ -18,23 +18,27 @@ public class Sharer : Person
 
     public string DogBreed { get; set; } 
 
-    public int ShareesID { get; set; } 
 
-public Sharer(int iD, string fName, string lName, string dob, int age, string phNum, 
-string gender, string email, string address, string dogName, string dogBreed, int shareesId)
-: base( iD, fName, lName, dob, age, phNum, gender,email)
+public Sharer(string fName, string lName, string dob, int age, string phNum, 
+  string gender, string email, string address, string dogName, string dogBreed)
+  : base( iD, fName, lName, dob, age, phNum, gender,email)
 {
   Address = address;
   DogName = dogName;
   DogBreed = dogBreed;
-  ShareesID = shareesId;
 }
+ public override string ToString()
+    {
+        return string.Format(
+            "First Name: {0}\nLast Name: {1}\nDate of Birth (mm/dd/yyyy): {2}\nAge: {3}\nPhone: {4}\nGender: {5}\nEmail: {6}\nAddress: {7}",
+            base.ToString(),Address);
 
+} 
     public void GetSharerInfo() 
 
     { 
 
-        Console.WriteLine("Enter Sharer Information:"); 
+        Console.WriteLine("Enter Your Sharer Information:\n"); 
 
         FName = Console.ReadLine(); 
 
@@ -52,12 +56,7 @@ string gender, string email, string address, string dogName, string dogBreed, in
 
         Address = Console.ReadLine(); 
 
-        DogName = Console.ReadLine(); 
-
-        DogBreed = Console.ReadLine(); 
-
-        ShareesID = Convert.ToInt32(Console.ReadLine()); 
-
+        
     } 
-
-} 
+     
+}
